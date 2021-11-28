@@ -1,0 +1,9 @@
+name: NextGEMS_holoviz
+channels:
+  - pyviz
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.7
+  - holoviz
+
